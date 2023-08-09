@@ -1,8 +1,3 @@
-// package utility;
-
-// public class StringBoolean {
-// //	Enter the code here....
-// }
 package utility;
 public class StringBoolean {
     private String input1;

@@ -1,8 +1,3 @@
-// package utility;
-
-// public class StringMethod {
-// //	Enter the code here....
-// }
 package utility;
 
 public class StringMethod {
